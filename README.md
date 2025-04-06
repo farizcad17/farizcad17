@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @farizcad17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @farizhassan
+- 👀 I’m interested in product designing 
+- 🌱 I’m currently learning mechanical engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me farizhassan2411@gmail.com
+- 
 
 <!---
 farizcad17/farizcad17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
